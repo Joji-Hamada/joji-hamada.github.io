@@ -50,11 +50,13 @@ a {
 }
 
 .facebook {
+  font-family: Font Awesome 5 Free;
   background-color: #3b5998;
   margin-right: 10px;
 }
 
 .twitter {
+  font-family: Font Awesome 5 Free;
   background-color: #55acee;
 }
 
